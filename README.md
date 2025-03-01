@@ -24,7 +24,7 @@ I'am Sidik Bagus Firmansyah, currently pursuing a Bachelor's degree in Computer 
 ### <summary><strong>PC Specs and IDEs I use 💻</strong></summary>
 <ul>
     <li><b>OS:</b> Windows 10 pro  </li>
-    <li><b>PC Specs: </b> Intel core 15-12400 CPU, GTX 1660 Super</li>
+    <li><b>PC Specs: </b> Intel core 15-12400, GTX 1660 Super</li>
     <li><b>Browser: </b> Google Chrome </li>
     <li><b>Code Editor:</b>  VSCode , Visual Studio Community </li>
 </ul>
