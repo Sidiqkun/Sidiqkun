@@ -8,7 +8,7 @@ a newbie programer, and a student from Bengkulu University.
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" style = "width = 10px"/>
 </p>
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" style = "width = 10px"/>
+    <img src="https://github.com/Harindulk/harindu.dev/blob/main/assets/icons/unity.svg" style = "width = 10px"/>
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
