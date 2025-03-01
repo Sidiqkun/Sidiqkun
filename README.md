@@ -21,8 +21,8 @@ a newbie programer, and a student from Bengkulu University.
     - :game_die: Game is part of me.
 <p>
 
-<details>
-        ###<summary><strong>💻 PC Specs and IDEs I use </strong></summary>
+### <details>
+        <summary><strong>💻 PC Specs and IDEs I use </strong></summary>
   	    <ul>
             <li><b>OS:</b> Windows 10 pro  </li>
             <li><b>PC Specs: </b> Intel core 15-12400 CPU, GTX 1660 Super</li>
