@@ -1,5 +1,7 @@
 # <summary><strong>Hi there :wave: , I'm Sidiqkun!</strong></summary>
-I'am Sidik Bagus Firmansyah, currently pursuing a Bachelor's degree in Computer Science 🎓 from Bengkulu University. 🏛
+- I'am Sidik Bagus Firmansyah, currently pursuing a Bachelor's degree in Computer Science  🎓 from Bengkulu University. 🏛
+- I am very interested in the world of programming. 💻
+- I really love mmorpg and competitive games. 🎮
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
