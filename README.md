@@ -3,10 +3,15 @@ a newbie programer, and a student from Bengkulu University.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue"/>
-</p>
+### <summary><strong>Languages and Tools :</strong></summary>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"/></code>
+<code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
+<code><img height="30" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/ms-word.png"/></code>
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
