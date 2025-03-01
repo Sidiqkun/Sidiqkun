@@ -21,15 +21,13 @@ a newbie programer, and a student from Bengkulu University.
     - :game_die: Game is part of me.
 <p>
 
-### <details>
-        <summary><strong>💻 PC Specs and IDEs I use </strong></summary>
-  	    <ul>
-            <li><b>OS:</b> Windows 10 pro  </li>
-            <li><b>PC Specs: </b> Intel core 15-12400 CPU, GTX 1660 Super</li>
-            <li><b>Browser: </b> Google Chrome </li>
-            <li><b>Code Editor:</b>  VSCode , Visual Studio Community </li>
-        </ul>
-</details>
+### <summary><strong>💻 PC Specs and IDEs I use </strong></summary>
+<ul>
+    <li><b>OS:</b> Windows 10 pro  </li>
+    <li><b>PC Specs: </b> Intel core 15-12400 CPU, GTX 1660 Super</li>
+    <li><b>Browser: </b> Google Chrome </li>
+    <li><b>Code Editor:</b>  VSCode , Visual Studio Community </li>
+</ul>
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.instagram.com/sidik_bagus_f/">
