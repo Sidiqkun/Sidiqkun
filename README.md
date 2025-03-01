@@ -17,6 +17,6 @@ a newbie programer, and a student from Universitas Bengkulu.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="(https://www.instagram.com/sidik_bagus_f/)">
+<a href="https://www.instagram.com/sidik_bagus_f/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
