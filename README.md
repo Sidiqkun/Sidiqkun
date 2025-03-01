@@ -19,15 +19,13 @@ a newbie programer, and a student from Bengkulu University.
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:sidikbagus46@gmail.com">Email me!</a>  </br>
     - :game_die: Game is part of me. </br>
-    - <details>
-      <summary><b>💻 PC Specs and IDEs I use </b></summary>
+    - <summary><b>💻 PC Specs and IDEs I use </b></summary>
   	    <ul>
             <li><b>OS:</b> Windows 10 pro  </li>
             <li><b>PC Specs: </b> Intel core 15-12400 CPU, GTX 1660 Super</li>
             <li><b>Browser: </b> Google Chrome </li>
             <li><b>Code Editor:</b>  VSCode , Visual Studio Community </li>
         </ul>
-        </details>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
