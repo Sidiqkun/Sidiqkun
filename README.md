@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Sidiqkun!</strong></summary>
-a newbie programer, and a student from Bengkulu University.
+I'am Sidik Bagus Firmansyah, currently pursuing a Bachelor's degree in Computer Science 🎓 from Bengkulu University. 🏛
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
